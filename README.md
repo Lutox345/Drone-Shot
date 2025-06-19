@@ -369,7 +369,7 @@
 
             <section id="contact" class="contact-info">
                 <h3>Ready to Get Started?</h3>
-                <p>Contact us via email to book your drone service: <a href="mailto:info@skycapture.com" class="email-link">info@skycapture.com</a></p>
+                <p>Contact us via email to book your drone service: <a href="mailto:drone-shot-lu@gmail.com" class="email-link">drone-shot-lu@gmail.com</a></p>
             </section>
         </main>
     </div>
